@@ -1,0 +1,7 @@
+a se b ke beech me random number generate karne ke liye a+b-a math.roun
+Math.round(a+(b-a)*Math.random())
+
+kisi id ko div me daloge to uss na ka variable mil jata hai
+
+
+local storage get item
